@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4c24c99fb6cf1c44cadea3e5d823f7be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fazTexture: {fileID: 2800000, guid: b809725fe61ad73439cb70d0123ee5ff, type: 3}
+  - rockTexture: {fileID: 2800000, guid: 81f6409e1fcb26e458f41e7635696f55, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

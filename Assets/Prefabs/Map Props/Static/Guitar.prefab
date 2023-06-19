@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3865841446428203094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4377347098076141030}
+  - component: {fileID: 1454745625856825203}
+  m_Layer: 0
+  m_Name: Guitar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4377347098076141030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3865841446428203094}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 44.143078, y: -1.2827542, z: 29.155697}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1828142246369297630}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1454745625856825203
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3865841446428203094}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.53814316, y: 0.060906887, z: 1.7370148}
+  m_Center: {x: 0.02018547, y: -0.009762049, z: 0.19659042}
+--- !u!1001 &2221511371840250677
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4377347098076141030}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 145
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 145
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 145
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.8616735
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5074632
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -60.99
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_ReceiveGI
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_Name
+      value: Bonnie Guitar Beta
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+--- !u!4 &1828142246369297630 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 85d3771f49a08b549a9e7dc01c6f2cc5, type: 3}
+  m_PrefabInstance: {fileID: 2221511371840250677}
+  m_PrefabAsset: {fileID: 0}
