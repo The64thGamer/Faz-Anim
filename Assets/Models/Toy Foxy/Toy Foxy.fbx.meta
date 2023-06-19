@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 9b572aa5fe3e85f46b34f23fada19017
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -408660992498927038
+    second: Armature|Arm L Twist F
+  - first:
+      74: 5200369839988978345
+    second: Armature|Arm R Twist B
+  - first:
+      74: 8506642072592356469
+    second: Armature|Arm Up L
+  - first:
+      74: 8640686737313629141
+    second: Armature|Arm Up R
+  - first:
+      74: 7356343350566466307
+    second: Armature|Body Lean B
+  - first:
+      74: -2090104136185025960
+    second: Armature|Body Lean F
+  - first:
+      74: 5881713613538775007
+    second: Armature|Body Turn L
+  - first:
+      74: -5446654009598657377
+    second: Armature|Body Turn R
+  - first:
+      74: -7672476596133327742
+    second: Armature|Eye Flip
+  - first:
+      74: -4987422974759195787
+    second: Armature|Eye L Left
+  - first:
+      74: 360094966923778223
+    second: Armature|Eye L Right
+  - first:
+      74: 81185536073659006
+    second: Armature|Eye R Left
+  - first:
+      74: -2940880141446066505
+    second: Armature|Eye R Right
+  - first:
+      74: 806860376588323087
+    second: Armature|Eyelids
+  - first:
+      74: -682925317000192749
+    second: Armature|Forearm Bend L
+  - first:
+      74: -1175595594946998846
+    second: Armature|Forearm Bend LL
+  - first:
+      74: -602930532802606341
+    second: Armature|Forearm Bend R
+  - first:
+      74: 528069247847819211
+    second: Armature|Forearm Twist L
+  - first:
+      74: -7587344611639907565
+    second: Armature|Forearm Twist R
+  - first:
+      74: -7815325544648314211
+    second: Armature|Head B
+  - first:
+      74: -8407886687169770962
+    second: Armature|Head F
+  - first:
+      74: -8091138466216337093
+    second: Armature|Head Tilt L
+  - first:
+      74: -855777142735867325
+    second: Armature|Head Tilt R
+  - first:
+      74: -4492678992627896975
+    second: Armature|Head Turn L
+  - first:
+      74: -5561165525402272418
+    second: Armature|Head Turn R
+  - first:
+      74: 7828440653316239520
+    second: Armature|Index 1 L
+  - first:
+      74: 7391605307541397965
+    second: Armature|Index 2 L
+  - first:
+      74: -355497010890236693
+    second: Armature|Jaw
+  - first:
+      74: 7804331802802483774
+    second: Armature|Leg LB
+  - first:
+      74: 3095928855595009142
+    second: Armature|Leg LF
+  - first:
+      74: 4390907255538772909
+    second: Armature|Leg RB
+  - first:
+      74: 9205174430848419786
+    second: Armature|LegRF
+  - first:
+      74: 8239146853525499133
+    second: Armature|Middle 1 L
+  - first:
+      74: 156098953908978589
+    second: Armature|Middle 2 L
+  - first:
+      74: 3267800666058661244
+    second: Armature|Pinky 1 L
+  - first:
+      74: 7053469564056338009
+    second: Armature|Pinky 2 L
+  - first:
+      74: 8759058227499473272
+    second: Armature|Thumb 1 L
+  - first:
+      74: 3939169376435762826
+    second: Armature|Thumb 2 L
+  - first:
+      74: 2293543448819220729
+    second: Armature|Wrist Down L
+  - first:
+      74: 5314342967803538665
+    second: Armature|Wrist Down R
+  - first:
+      74: -5632867526398193288
+    second: Armature|Wrist Twist L L
+  - first:
+      74: 264043651934025446
+    second: Armature|Wrist Twist L R
+  - first:
+      74: 3873876806199862567
+    second: Armature|Wrist Twist R L
+  - first:
+      74: -1152163593004538007
+    second: Armature|Wrist Twist R R
+  - first:
+      74: -5785448088514375314
+    second: Armature|Wrist Up L
+  - first:
+      74: 4716965566590149466
+    second: Armature|Wrist Up R
+  - first:
+      74: -4327494501756793770
+    second: Armature|ARM TWIST LLL
+  - first:
+      74: -645041677883050276
+    second: Armature|ARM TWIST LLL.001
+  - first:
+      74: -16518987301432052
+    second: Armature|Index 1R
+  - first:
+      74: 2847389042738793514
+    second: Armature|Index 2 R
+  - first:
+      74: 825024249750730198
+    second: Armature|Middle 1 R
+  - first:
+      74: -6940118342115554706
+    second: Armature|Middle 2 R
+  - first:
+      74: 7095803086147627972
+    second: Armature|Pinky 1 R
+  - first:
+      74: -5404946120098499463
+    second: Armature|Pinky 2 R
+  - first:
+      74: 5858157825606153543
+    second: Armature|Thumb 1 R
+  - first:
+      74: 3872135156973463212
+    second: Armature|Thumb 2 R
+  - first:
+      74: 7185981913631040495
+    second: Armature|FNAFArmTwistL
+  - first:
+      74: -244037797599526544
+    second: Armature|FNAFArmTwistR
+  - first:
+      74: -2131781725934354091
+    second: Armature|FNaFBodyTurnLeft
+  - first:
+      74: -4435664698838027871
+    second: Armature|FNaFBodyTurnRight
+  - first:
+      74: -7585664082500270234
+    second: Armature|FNAFHeadTurnL
+  - first:
+      74: 9214907174964488340
+    second: Armature|FNAFHeadTurnR
+  - first:
+      74: -872353902987579150
+    second: Armature|FNAFJaw
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminum
+    second: {fileID: 2100000, guid: c431cf0f72d0e2d4c9fb9399c41ec3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackWood
+    second: {fileID: 2100000, guid: d769e0e2e32d53347b6dbb3bf4d6af01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fiberglass Tubes
+    second: {fileID: 2100000, guid: 20a4120d16fe18044a2e09d5e3f77337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foxy Plastic
+    second: {fileID: 2100000, guid: 8b57fa343e5174548be80ea2883d59ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lolbit
+    second: {fileID: 2100000, guid: a3944f6d86870534c8b82f443c9e02c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mijin Black Plastic
+    second: {fileID: 2100000, guid: a9a10dc3205b9b94aa187858597afbb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other Metals
+    second: {fileID: 2100000, guid: 28b8177df7f57ba479acdbcd94279bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticTB
+    second: {fileID: 2100000, guid: 69446e08d2f2d124fb878029b9b7a683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple Plastic
+    second: {fileID: 2100000, guid: 292875630db095d46a4666b1dda8c578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Plastic
+    second: {fileID: 2100000, guid: 097fb74adbdb77e469ab7011c3d55531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tangle
+    second: {fileID: 2100000, guid: ecc19a0a111d858419226dcede428208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToyFreddy
+    second: {fileID: 2100000, guid: ccf83b77865835c4a9d715b35e2b5c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToyWitherEye
+    second: {fileID: 2100000, guid: 5d06bc69ed68b61499c96a9fc00886af, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

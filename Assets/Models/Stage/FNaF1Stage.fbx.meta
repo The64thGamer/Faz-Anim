@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 0fd8398ec07e1db4daa60792a07521fc
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 1138193709081581135
+    second: Plane|Circle.004Action
+  - first:
+      74: 1622393205819463541
+    second: Plane|Circle.005Action
+  - first:
+      74: -3775833616443702726
+    second: Plane|Default.001Action
+  - first:
+      74: -5187248419258813496
+    second: Plane|PlaneAction
+  - first:
+      74: -7218490717262395308
+    second: Plane|PlaneAction.001
+  - first:
+      74: 6689390143339556043
+    second: Plane|PlaneAction.002
+  - first:
+      74: -8132194914979153215
+    second: Plane|PlaneAction.003
+  - first:
+      74: 4993179775411289065
+    second: Plane|PlaneAction.004
+  - first:
+      74: -1977828127632670389
+    second: Plane|PlaneAction.005
+  - first:
+      74: 182504494041373883
+    second: Plane|PlaneAction.006
+  - first:
+      74: 8059941999467732938
+    second: FNAFForearmBendR
+  - first:
+      74: 1694898810066116408
+    second: FNAFForearmBendL
+  - first:
+      74: -8400984013995315809
+    second: Armature.002|FNAFArmTwistL
+  - first:
+      74: -7245496408449281471
+    second: Armature.002|FNAFArmTwistR
+  - first:
+      74: -1723896343409433784
+    second: Armature.002|FNAFArmUpL
+  - first:
+      74: -4323965445096724700
+    second: Armature.002|FNAFArmUpR
+  - first:
+      74: 662310766726071002
+    second: Armature.002|FNaFBodyLean
+  - first:
+      74: 3449159901841344488
+    second: Armature.002|FNaFBodyTurnLeft
+  - first:
+      74: 8584897653624557245
+    second: Armature.002|FNaFBodyTurnRight
+  - first:
+      74: -1835476179297367650
+    second: Armature.002|FNAFEyelidL
+  - first:
+      74: 6135061428796532306
+    second: Armature.002|FNAFEyelidR
+  - first:
+      74: 2613740881945381360
+    second: Armature.002|FNAFEyesLeft
+  - first:
+      74: -8126276155816145289
+    second: Armature.002|FNAFEyesRight
+  - first:
+      74: -1294217393335965502
+    second: Armature.002|FNaFFootTap
+  - first:
+      74: 3182196397684434243
+    second: Armature.002|FNAFForearmBendL
+  - first:
+      74: 2578410527498845910
+    second: Armature.002|FNAFForearmBendR
+  - first:
+      74: -2815422048851473020
+    second: Armature.002|FNAFForearmTwist
+  - first:
+      74: 847379508662919469
+    second: Armature.002|FNAFForearmTwistL
+  - first:
+      74: -7486646968946316666
+    second: Armature.002|FNAFHeadTurnL
+  - first:
+      74: 100113601275701665
+    second: Armature.002|FNAFHeadTurnR
+  - first:
+      74: -5048577867680756387
+    second: Armature.002|FNAFHeadUp
+  - first:
+      74: -314643899094823626
+    second: Armature.002|FNAFJaw
+  - first:
+      74: -4102163895699318698
+    second: Armature.002|FNAFWristBendL
+  - first:
+      74: -1025642652890525730
+    second: Armature.002|FNAFWristBendR
+  - first:
+      74: 7836064116340787211
+    second: Armature.002|FNAFWristTwistL
+  - first:
+      74: 659973357964244111
+    second: Armature.002|FNAFWristTwistR
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminum
+    second: {fileID: 2100000, guid: c431cf0f72d0e2d4c9fb9399c41ec3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel
+    second: {fileID: 2100000, guid: 76a5ce8e6b46c2040b0b03a44ca416d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Carpet
+    second: {fileID: 2100000, guid: 4308c6403dbc36840ac0095cdce43f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackGlass
+    second: {fileID: 2100000, guid: 4228646bd1bfee9459cb9aa669a5de98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blank
+    second: {fileID: 2100000, guid: 0c8fe350332c52847b4a86d660c9d488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boiler
+    second: {fileID: 2100000, guid: 04e20465921d8cd49a5fd639a212fd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bushes
+    second: {fileID: 2100000, guid: fe97109d147ac7a45a749f470b9ee5ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Campfire
+    second: {fileID: 2100000, guid: dc01a6861df345d479d3c9b6fcdd011a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier
+    second: {fileID: 2100000, guid: 62bf16165ffde4d4dbf1f4729c612e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier Glass
+    second: {fileID: 2100000, guid: 16c304f440a652547bbe51e76691e9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Checker
+    second: {fileID: 2100000, guid: 22289f8e22be7e0498cf466a68709e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain
+    second: {fileID: 2100000, guid: ec84abdf46bafba408a63194076af434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtains
+    second: {fileID: 2100000, guid: 2475b8d70875c234198118f57c43edac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FNaFSpeaker
+    second: {fileID: 2100000, guid: 606c2d51978e9f84987ee87ef5783db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fake Wood
+    second: {fileID: 2100000, guid: dbcce4706727aa24098da08ee1fab834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fiberglass Tubes
+    second: {fileID: 2100000, guid: 20a4120d16fe18044a2e09d5e3f77337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foxy Bulb
+    second: {fileID: 2100000, guid: 1588513f39582ac45a4482b4bd9adaa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foxy Bulb 1
+    second: {fileID: 2100000, guid: 1588513f39582ac45a4482b4bd9adaa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foxy Bulb 2
+    second: {fileID: 2100000, guid: 5de0022346923ce428f7008edb728834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FoxyChair
+    second: {fileID: 2100000, guid: 46319359730546e4dab13622e956e43a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FoxyStageProps
+    second: {fileID: 2100000, guid: 8359b4b7c33473f44b7d4022158affa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GasPump
+    second: {fileID: 2100000, guid: c2be37bef08b24e44b94b400ed19a42b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 74cd89584b524e743bcd023c8eee5308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey Carpet
+    second: {fileID: 2100000, guid: 088a2be45062669458cf55995c890d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard
+    second: {fileID: 2100000, guid: 2e483c0029717174183bb541fa4ec511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LooneyBarrel_Diffuse
+    second: {fileID: 2100000, guid: 76a5ce8e6b46c2040b0b03a44ca416d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moonshine
+    second: {fileID: 2100000, guid: 457faca29eb39e247b92b09f021a424b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other Metals
+    second: {fileID: 2100000, guid: 28b8177df7f57ba479acdbcd94279bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other Metals.001
+    second: {fileID: 2100000, guid: 28b8177df7f57ba479acdbcd94279bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pirate Wood
+    second: {fileID: 2100000, guid: 6b94fbd1dbc0a684787bb0f505d57c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RealTV
+    second: {fileID: 2100000, guid: d4e697f2e5b6e9c4d901966b6735ba16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rocks
+    second: {fileID: 2100000, guid: 64eaeda3c8f683245b6ef9279448c7f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Signs_Diffuse
+    second: {fileID: 2100000, guid: bfc6ba81416def2449eb198355ca5ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmittySign
+    second: {fileID: 2100000, guid: 670d949b97658ce4e80d6f1e50181726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Lights
+    second: {fileID: 2100000, guid: 7168c15f19effda43bd6abdcdc4e7b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Lights.001
+    second: {fileID: 2100000, guid: 7168c15f19effda43bd6abdcdc4e7b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StageBlack
+    second: {fileID: 2100000, guid: 2f89a7d2aa3428342804502bdcf2990d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StageLight1
+    second: {fileID: 2100000, guid: 6d2762bc035d0754cb50276f68c0039c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StagePaintings
+    second: {fileID: 2100000, guid: 83038a2863589aa4faffdfb81b87c9ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StageWood
+    second: {fileID: 2100000, guid: 25a3902e4c0f711479739a1395088134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StarLight
+    second: {fileID: 2100000, guid: 2b613be7d3ee1d74f87cbd1f11986df3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Streamers
+    second: {fileID: 2100000, guid: 054999e149556c54bab7f798bb0ab984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVGlass
+    second: {fileID: 2100000, guid: 1de2d700b6a40fc41ba83ab0bd2a38b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TanBrick
+    second: {fileID: 2100000, guid: b7cd76e2f43eaa74c861c61cf6c89306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Valence
+    second: {fileID: 2100000, guid: 4f396b7fcd837854f9bd9e15efa1da26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 914a83467d057704e824b47b0fbebbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodTwo
+    second: {fileID: 2100000, guid: 0f016e5a27b384041b4833049a4cd3c1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
