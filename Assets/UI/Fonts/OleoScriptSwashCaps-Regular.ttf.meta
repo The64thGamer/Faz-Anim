@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c27b326e463d8af4cacfd32a8822f115
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Oleo Script Swash Caps
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 12903babc697c654e8dd7cd8f6e0ee47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
